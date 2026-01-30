@@ -354,4 +354,4 @@ Project Link: [https://github.com/NeilAlvn/eye-blink-detection](https://github.c
 
 ⭐ **Star this repository** if you find it useful!
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Neil Alvin Medallon**
