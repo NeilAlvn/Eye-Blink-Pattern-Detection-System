@@ -7,6 +7,13 @@ A real-time eye blink detection and analysis system using computer vision and ma
 ![MediaPipe](https://img.shields.io/badge/mediapipe-0.10.30+-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## 📸 Demo
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NeilAlvn/NeilAlvn.github.io/main/Blink.png" alt="Eye Blink Detection Demo" width="800">
+  <p><i>Real-time eye blink detection with pattern analysis overlay</i></p>
+</div>
+
 ## 🌟 Features
 
 ### Core Functionality
