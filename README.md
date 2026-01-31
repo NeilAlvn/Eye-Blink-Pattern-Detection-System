@@ -336,7 +336,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/NeilAlvn/eye-blink-detection](https://github.com/yourusername/eye-blink-detection)
+Project Link: [https://github.com/NeilAlvn/Eye-Blink-Pattern-Detection-System](https://github.com/yourusername/eye-blink-detection)
 
 ## 🔮 Future Enhancements
 
